@@ -1,5 +1,6 @@
 import { Article, Brand, Cta, Feature, Navbar } from "./components/Components";
 import {Blog, Features, Footer, Header, Possibility, WhatGPT3 } from "./containers/Containers";
+import './App.css';
  function App() {
   return(
     <div className="App">
